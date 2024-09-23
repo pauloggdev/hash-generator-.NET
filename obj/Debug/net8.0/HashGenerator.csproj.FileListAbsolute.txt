@@ -1,0 +1,14 @@
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\bin\Debug\net8.0\HashGenerator.exe
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\bin\Debug\net8.0\HashGenerator.deps.json
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\bin\Debug\net8.0\HashGenerator.runtimeconfig.json
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\bin\Debug\net8.0\HashGenerator.dll
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\bin\Debug\net8.0\HashGenerator.pdb
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\HashGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\HashGenerator.AssemblyInfoInputs.cache
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\HashGenerator.AssemblyInfo.cs
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\HashGenerator.csproj.CoreCompileInputs.cache
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\HashGenerator.dll
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\refint\HashGenerator.dll
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\HashGenerator.pdb
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\HashGenerator.genruntimeconfig.cache
+C:\Users\paulo.joao\Documents\MEUS_PROJETOS\HashGenerator\obj\Debug\net8.0\ref\HashGenerator.dll
